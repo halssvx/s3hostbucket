@@ -1,0 +1,2 @@
+Using Terraform I'm going to be hosting a Website on AWS S3 simple XD
+This project sets up a basic static website hosted on AWS S3 using Terraform. It creates the bucket, configures permissions, uploads a sample `index.html`, and sets it up for public access.
